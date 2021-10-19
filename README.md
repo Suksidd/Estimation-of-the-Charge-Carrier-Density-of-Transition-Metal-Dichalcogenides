@@ -1,5 +1,7 @@
 # Estimation-of-the-Charge-Carrier-Density-of-Transition-Metal-Dichalcogenides
 
+Submitted to IWPSD conferance
+
 •The reports demonstrate for the first time, the experimental determination of electronic properties and the pristine band structure for the family of TMDs materials (MoS 2 , MoSe 2 , SnSe 2 , MoSe 2 , SnS, NiSe 2 ) using sophisticated Ultraviolet Photoelectron Spectroscopy (UPS) technique. 
 
 •Further, utilizing the hall effect measurements, effective masses have been experimentally approximated and utilized for estimating the carrier concentration for all pristine TMDs. 
